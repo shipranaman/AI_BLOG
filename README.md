@@ -1,12 +1,12 @@
-#  AI Blog Platform
+# AI Blog Platform
 
-A full-stack AI-powered blog platform built using the MERN-inspired architecture with **React, Node.js, Express, MySQL, ImageKit, and Google Gemini AI**. The platform allows administrators to create, manage, and publish blogs while leveraging AI to generate and rewrite blog content.
+A full-stack AI-powered blog platform built using the MERN-inspired architecture with React, Node.js, Express, MySQL, ImageKit, and Google Gemini AI. The platform allows administrators to create, manage, and publish blogs while leveraging AI to generate and rewrite blog content.
 
 ---
 
-##  Features
+# Features
 
-### User Features
+## User Features
 
 - Browse published blogs
 - Search blogs by title
@@ -15,7 +15,7 @@ A full-stack AI-powered blog platform built using the MERN-inspired architecture
 - Add comments on blogs
 - Responsive UI
 
-### Admin Features
+## Admin Features
 
 - Secure admin authentication
 - Add new blogs
@@ -25,51 +25,53 @@ A full-stack AI-powered blog platform built using the MERN-inspired architecture
 - Manage comments
 - Dashboard with blog statistics
 
-###  AI Features
+## AI Features
 
-- **AI Blog Content Generator**
-  - Generate complete blog content from a blog title using Google Gemini AI.
+### AI Blog Content Generator
 
-- **AI Blog Rewriter**
-  - Rewrite blog content in different writing styles:
-    - Professional
-    - Casual
-    - Formal
-    - Beginner Friendly
+- Generate complete blog content from a blog title using Google Gemini AI.
+
+### AI Blog Rewriter
+
+- Rewrite blog content in different writing styles:
+  - Professional
+  - Casual
+  - Formal
+  - Beginner Friendly
 
 ---
 
-##  Tech Stack
+# Tech Stack
 
-### Frontend
+## Frontend
 
 - React.js
 - React Router
 - Axios
 - Tailwind CSS
 
-### Backend
+## Backend
 
 - Node.js
 - Express.js
 
-### Database
+## Database
 
 - MySQL
 
-### AI
+## AI
 
 - Google Gemini API
 
-### Image Storage
+## Image Storage
 
 - ImageKit
 
 ---
 
-##  Project Structure
+# Project Structure
 
-```
+```text
 AI_BLOG
 │
 ├── client
@@ -85,17 +87,18 @@ AI_BLOG
 │   ├── package.json
 │   └── server.js
 │
+├── screenshots
+│
 └── README.md
 ```
 
 ---
 
-
-## 🔑 Environment Variables
+# Environment Variables
 
 Create a `.env` file inside the `server` folder.
 
-```
+```env
 PORT=
 
 MYSQL_HOST=
@@ -110,11 +113,13 @@ IMAGEKIT_PRIVATE_KEY=
 IMAGEKIT_URL_ENDPOINT=
 
 GEMINI_API_KEY=
+```
 
-##screenshots
+---
 
+# Screenshots
 
-Project screenshots are available in the **`screenshots`** folder.
+Project screenshots are available in the `screenshots` folder.
 
 - Home Page
 - Blog Details
@@ -122,8 +127,4 @@ Project screenshots are available in the **`screenshots`** folder.
 - Add Blog
 - AI Content Generation
 - AI Content Rewriter
-
-
-
-
 
