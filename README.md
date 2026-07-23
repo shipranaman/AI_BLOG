@@ -112,6 +112,15 @@ IMAGEKIT_URL_ENDPOINT=
 GEMINI_API_KEY=
 
 
+Project screenshots are available in the **`screenshots`** folder.
+
+- Home Page
+- Blog Details
+- Admin Dashboard
+- Add Blog
+- AI Content Generation
+- AI Content Rewriter
+
 
 
 
