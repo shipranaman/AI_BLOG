@@ -111,16 +111,8 @@ IMAGEKIT_URL_ENDPOINT=
 
 GEMINI_API_KEY=
 
-## 📸 Screenshots
 
-Add screenshots here.
 
-- Home Page
-- Blog Details
-- Admin Dashboard
-- Add Blog
-- AI Blog Generator
-- AI Blog Rewriter
-**Shipra Naman**
 
-GitHub: https://github.com/shipranaman
+
+
