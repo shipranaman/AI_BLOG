@@ -1,0 +1,1 @@
+MONGODB_URI=mongodb+srv://shiprauiet_db_user:YOUR_PASSWORD@cluster0.nwjjbch.mongodb.net/blog?retryWrites=true&w=majority&appName=Cluster0
