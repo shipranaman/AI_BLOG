@@ -111,6 +111,8 @@ IMAGEKIT_URL_ENDPOINT=
 
 GEMINI_API_KEY=
 
+##screenshots
+
 
 Project screenshots are available in the **`screenshots`** folder.
 
